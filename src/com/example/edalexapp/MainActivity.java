@@ -26,7 +26,9 @@ import android.support.v4.widget.DrawerLayout;
 import android.widget.ArrayAdapter;
 import android.widget.EditText;
 import android.widget.TextView;
-
+/*
+Creates hamburger menu slideout with class information
+*/
 public class MainActivity extends ActionBarActivity implements
 		NavigationDrawerFragment.NavigationDrawerCallbacks {
 	public static final String NUMCLASSES = "numClasses";
